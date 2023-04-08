@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @earr0103
+- 👋 Hi, I’m @earr0103 and my name is Esteban Ramos
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python
 - 💞️ I’m just starting so i’ll love some tips !
